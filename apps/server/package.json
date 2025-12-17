@@ -1,0 +1,6 @@
+{
+  "name": "firebase",
+  "scripts": {
+    "dev": "cd functions && npm run dev"
+  }
+}
